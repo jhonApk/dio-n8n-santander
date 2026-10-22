@@ -45,7 +45,7 @@ A diretriz de comportamento utilizada foi:
 Nesta seção devem ser registradas as perguntas feitas ao notebook, um resumo das respostas recebidas e as fontes utilizadas para fundamentá-las.
 
 | Pergunta realizada | Fonte utilizada |
-|---|---|---|
+|---|---|
 | O que é o n8n e para que serve? | [Documentação oficial](https://docs.n8n.io/choose-how-to-use-n8n) |
 | Como criar o primeiro workflow? | [Primeiro workflow](https://docs.n8n.io/build-your-first-workflow) |
 | Quais são as formas de instalar e utilizar o n8n?  | [Opções de instalação](https://docs.n8n.io/deploy/host-n8n/install-options) |
